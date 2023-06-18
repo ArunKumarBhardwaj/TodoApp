@@ -1,0 +1,8 @@
+//COLORS FILE
+
+export const colors = {
+  PRIMARY_TEXT: '#FFFFFF',
+  PRIMARY_BACKGROUND: '#121212',
+  LIGHT_GRAY: '#D3D3D3',
+  BUTTON_COLOR: '#0096FF',
+};
